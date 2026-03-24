@@ -12,3 +12,6 @@
        valid_lft forever preferred_lft forever
     inet6 fe80::215:5dff:fee6:ce0f/64 scope link 
        valid_lft forever preferred_lft forever
+
+
+
